@@ -12,6 +12,6 @@ public class Zapatos {
     
     public String marca;
     public String color;
-    public float tamaño;
+    public byte tamaño;
     public String modelo;
 }
